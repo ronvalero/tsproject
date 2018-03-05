@@ -1,0 +1,14 @@
+# ignore obj folder
+tsprojectAspNetcore/obj/
+
+# ignore bin folder
+tsprojectAspNetcore/bin/
+
+# ignore node_modules
+tsprojectGulp/node_modules/
+
+# ignore tsprojectjsMigration node_modules
+tsprojectMigration/node_modules/
+
+# ignore tsprojectReactWebpack node_modules
+tsprojectReactWebpack/node_modules/
